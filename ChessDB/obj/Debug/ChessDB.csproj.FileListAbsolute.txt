@@ -1,0 +1,10 @@
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\bin\Debug\ChessDB.exe.config
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\bin\Debug\ChessDB.exe
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\bin\Debug\ChessDB.pdb
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.Form1.resources
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.Properties.Resources.resources
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.csproj.GenerateResource.cache
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.exe
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.pdb
+C:\Users\Sergey\Desktop\Сетевой it-университет\Язык программирования C#\Проект\Chess by Debrone Constant\ChessDB\obj\Debug\ChessDB.csproj.AssemblyReference.cache
